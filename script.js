@@ -5,4 +5,4 @@
 // Get the current URL
 	let currentUrl = window.location.href;
      let length = currentUrl.length;
- alert("The length of the URL is": length);
+ alert("The length of the URL is": + length);
